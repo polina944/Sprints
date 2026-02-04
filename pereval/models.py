@@ -1,6 +1,7 @@
 from django.db import models
 
 """
+
 {
   "beauty_title": "пер.",
   "title": "Пхия",
